@@ -1,0 +1,36 @@
+.header {
+  line-height: 67px;
+  width: 100%;
+  background-color: #69f;
+
+  h1 {
+    margin: 0;
+    font-size: 1.6rem;
+    padding-left: 15px;
+    font-weight: 200;
+    color: #fff;
+  }
+}
+
+.comtent {
+  width: 100%;
+  height: 100%;
+
+  .website-comtent {
+    margin: 6rem auto;
+    max-width: 800px;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.footer {
+  padding: 0 15px;
+  background-color: #f6f6f6;
+
+  .footer-body {
+    margin: 26px auto;
+
+    max-width: 800px;
+  }
+}
